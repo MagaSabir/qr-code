@@ -1,0 +1,19 @@
+:root {
+	--color-white: hsl(0, 0%, 100%);
+	--color-grey-light: hsl(212, 45%, 89%);
+	--color-blue: hsl(220, 15%, 55%);
+	--color-blue-dark: hsl(218, 44%, 22%);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+ html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+ }
+
+ body {
+	font-family: 'Outfit', sans-serif;
+ }
